@@ -11,9 +11,7 @@
 
 I build backend systems for a living and many other things for fun.
 
-At work I build Java and Spring Boot microservices in an enterprise environment. That means Kafka, an API gateway (Gravitee), Docker and Kubernetes, and a lot of production troubleshooting with Elasticsearch, Kibana, Prometheus and Grafana.
-
-Outside work I like to go lower and wider. I've written an x86 operating system with its own TCP/IP and TLS 1.3 stack, a C++ trading-signal engine for MetaTrader 5, a GPU (OpenCL) solver for a timetabling engine, and full-stack apps in Angular, React and Flutter.
+Professionally I work on Java/Spring Boot microservices and production systems. Outside work I like to go lower and wider: I've written an x86 operating system with its own TCP/IP and TLS 1.3 stack, a C++ trading-signal engine for MetaTrader 5, a GPU (OpenCL) solver for a timetabling engine, and full-stack apps in Angular, React and Flutter.
 
 **Interests:** software architecture · distributed systems · systems programming · application security · AI/ML · cloud &amp; DevOps
 
