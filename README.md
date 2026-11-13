@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hakkou-b12354244/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"/></a>
-  <a href="https://reddit.com/user/immrhak"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"/></a></p>
+  <a href="https://www.linkedin.com/in/mohamed-hakkou-b12354244/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"/></a></p>
 
 ---
 
